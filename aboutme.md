@@ -7,25 +7,25 @@ I earned Bachelor of Technology (B.Tech) in Electronics and Telecommunications
 
 Technical Skills:
 
-C
+C,
 
-C++
+C++,
 
-Data Structure
+Data Structure,
 
-Database Manegment
+Database Manegment,
 
 Tools Of The Trade:
 
 Python
 
-Jupyter Notebooks
+Jupyter Notebooks,
 
-Pandas
+Pandas,
 
-Visualizations 
+Visualizations ,
 
-Matplotlib
+Matplotlib,
 
 Seaborn
 
