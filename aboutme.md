@@ -9,7 +9,7 @@ Technical Skills:
 C,
 C++,
 Data Structure &
-Database Manegment
+Database Managment
 
 Tools Of The Trade:
 Python
