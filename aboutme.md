@@ -4,8 +4,24 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Neha kumari. I am an aspiring data scientist. I was born and raised in India.
+I earned Bachelor of Technology (B.Tech) in Electronics and Telecommunications
 
+Technical Skills:
+C
+C++
+Data Structure
+Database Manegment
+
+Tools Of The Trade:
+Python
+Jupyter Notebooks
+Pandas
+Visualizations 
+Matplotlib
+Seaborn
+
+ 
 - I rock a great mustache
 - I'm extremely loyal to my family
 
