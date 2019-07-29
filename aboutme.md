@@ -1,7 +1,7 @@
-
-layout: page
+---
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Aspiring Data scientist
+---
 
 My name is Neha kumari. I am an aspiring data scientist. I was born and raised in India.
 I earned Bachelor of Technology (B.Tech) in Electronics and Telecommunications
@@ -21,11 +21,3 @@ Matplotlib
 Seaborn
 
  
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you ned?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
