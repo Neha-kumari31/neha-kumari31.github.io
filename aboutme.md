@@ -25,7 +25,7 @@ Seaborn
 - I rock a great mustache
 - I'm extremely loyal to my family
 
-What else do you need?
+What else do you ned?
 
 ### my history
 
